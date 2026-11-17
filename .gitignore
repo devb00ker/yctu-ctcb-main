@@ -1,0 +1,7 @@
+.venv/
+__pycache__/
+.pytest_cache/
+output/*
+!output/.gitkeep
+config/local.json
+*.log

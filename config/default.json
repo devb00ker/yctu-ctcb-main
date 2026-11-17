@@ -1,0 +1,20 @@
+{
+  "host": "192.168.12.1",
+  "port": 3333,
+  "robot_id": 3,
+  "video_bind": "0.0.0.0",
+  "video_port": 3334,
+  "video_source": "192.168.12.1",
+  "video_mode": "au",
+  "radar_format": "nested",
+  "map_role": "operator",
+  "map_width_m": 12.0,
+  "map_height_m": 8.0,
+  "map_calibrated": false,
+  "map_image": "assets/maps/rmul2027-top.png",
+  "map_click_units_per_m": 1.0,
+  "path_mode": "origin",
+  "mouse_scale": 1.0,
+  "mouse_y_sign": -1,
+  "control_hz": 75
+}
